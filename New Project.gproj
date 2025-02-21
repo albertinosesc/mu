@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <properties scaleMode="0" logicalWidth="320" logicalHeight="480" windowWidth="0" windowHeight="0" autorotation="0" orientation="0" fps="60" vsync="0" version="1.0" version_code="1" build_number="1" mainluaOnly="0" retinaDisplay="0" mouseToTouch="1" touchToMouse="1" mouseTouchOrder="0" architecture="7" exportMode="0" iosDevice="0" ios_bundle="com.yourdomain.yourapp-ios" atv_bundle="com.yourdomain.yourapp-atv" macos_bundle="com.yourdomain.yourapp-macos" macos_category="5" qtexp_platform="0" qtexp_org="GiderosMobile" qtexp_domain="giderosmobile.com" osx_bundle="com.yourdomain." osx_signingId="" osx_installerId="" osx_category="5" winrt_org="GiderosMobile" winrt_package="com.yourdomain.yourapp" html5_host="" html5_crash="" html5_mem="256" html5_pack="0" html5_wasm="0" html5_symbols="0" html5_fbinstant="0" html5_pwa="0" html5_fbload="100" encryptCode="0" encryptAssets="0" app_icon="" tv_icon="" disableSplash="0" backgroundColor="#ffffff" splash_h_image="" splash_v_image="" app_name="" splashScaleMode="0">
+        <imageScales/>
+        <plugins/>
+        <exports>
+            <export name="APK">
+                <property name="androidPath" value=""/>
+                <property name="androidSdk" value=""/>
+                <property name="androidTarget" value="34"/>
+                <property name="buildAab" value="1"/>
+                <property name="buildApk" value="0"/>
+                <property name="deployApk" value="0"/>
+                <property name="forOculus" value="0"/>
+                <property name="javaPath" value=""/>
+                <property name="keyAlias" value=""/>
+                <property name="keyStore" value=""/>
+                <property name="oculusHT" value="0"/>
+                <property name="oculusHTR" value="0"/>
+                <property name="oculusPT" value="0"/>
+                <property name="oculusPTR" value="0"/>
+                <property name="packageName" value="com.yourdomain.yourapp"/>
+                <property name="timestampApk" value="0"/>
+            </export>
+        </exports>
+    </properties>
+    <folder name="buga" path="../../buga">
+        <file name="../../buga/SciTEUser.properties"/>
+        <file name="../../buga/Tarefa.txt"/>
+        <file name="../../buga/atualizaçãoes.txt"/>
+        <file name="../../buga/buga.love"/>
+        <file name="../../buga/dicas.txt"/>
+        <file name="../../buga/index.html"/>
+        <file name="../../buga/jogo buga.txt"/>
+        <file name="../../buga/main.lua"/>
+        <file name="../../buga/teste2"/>
+        <folder name="sounds">
+            <file name="../../buga/sounds/Notas Musicais.abc"/>
+            <file name="../../buga/sounds/chiptune.mp3"/>
+            <file name="../../buga/sounds/do.mp3"/>
+            <file name="../../buga/sounds/explosao_colisao.mp3"/>
+            <file name="../../buga/sounds/fa.mp3"/>
+            <file name="../../buga/sounds/mi.mp3"/>
+            <file name="../../buga/sounds/re.mp3"/>
+            <file name="../../buga/sounds/sol.mp3"/>
+        </folder>
+        <folder name="imagens">
+            <file name="../../buga/imagens/abacate.png"/>
+            <file name="../../buga/imagens/amora.png"/>
+            <file name="../../buga/imagens/banana.png"/>
+            <file name="../../buga/imagens/laranja.png"/>
+            <file name="../../buga/imagens/mariotart.webp"/>
+            <file name="../../buga/imagens/tartaruga.png"/>
+            <file name="../../buga/imagens/tartaruga1.png"/>
+            <file name="../../buga/imagens/tartaruga12.png"/>
+            <file name="../../buga/imagens/teste.lua"/>
+            <file name="../../buga/imagens/tomate.png"/>
+        </folder>
+    </folder>
+</project>
